@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "id": "legacy",
+      "title": "Legacy",
+      "artist": "PIXY",
+      "type": "video",
+      "file": "videos/Legacy.mp4",
+      "thumb": "thumbs/legacy.jpg"
+    }
+  ]
+}
