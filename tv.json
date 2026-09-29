@@ -7,6 +7,14 @@
       "type": "video",
       "file": "videos/Legacy.mp4",
       "thumb": "thumbs/legacy.jpg"
+    },
+    {
+      "id": "1tap",
+      "title": "1tap",
+      "artist": "Chanelfather, geno",
+      "type": "video",
+      "file": "videos/1tap.mp4",
+      "thumb": "thumbs/1tap.jpg"
     }
   ]
 }
