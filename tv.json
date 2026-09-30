@@ -15,6 +15,13 @@
       "type": "video",
       "file": "videos/1tap.mp4",
       "thumb": "thumbs/1tap.jpg"
+    },
+    {
+      "id": "juul-mod-menu",
+      "title": "JUUL MOD MENU",
+      "artist": "Ka3paras",
+      "type": "video",
+      "file": "videos/juul-mod-menu.mp4"
     }
   ]
 }
