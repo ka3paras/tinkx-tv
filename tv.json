@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "id": "test-video",
+      "title": "Test Video",
+      "artist": "Ka3paras",
+      "type": "video",
+      "file": "videos/Gorilla Tag_2026-10-01_16-23-48.mp4"
+    },
+    {
       "id": "legacy",
       "title": "Legacy",
       "artist": "PIXY",
